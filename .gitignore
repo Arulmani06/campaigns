@@ -1,0 +1,19 @@
+# All node dependencies
+node_modules
+
+# Typescript generated files
+**.js
+**.js.map
+
+# npm dependencies
+package-lock.json
+
+# Code coverage outputs
+.nyc_output
+coverage
+
+# IDE generated files
+.vscode
+
+# Environment Variables
+.env
